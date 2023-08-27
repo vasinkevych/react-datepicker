@@ -1,11 +1,11 @@
 {
     "name": "tailwindcss-react-datepicker",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "description": "A modern React Datepicker using Tailwind CSS 3",
     "main": "dist/index.cjs.js",
     "module": "dist/index.esm.js",
     "types": "dist/index.d.ts",
-    "author": "videmig",
+    "author": "vivitali",
     "license": "MIT",
     "scripts": {
         "watch": "rollup -c -w",
@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/videmig/tailwindcss-react-datepicker"
+        "url": "https://github.com/vivitali/tailwindcss-react-datepicker"
     },
     "keywords": [
         "tailwindcss-react-datepicker",
